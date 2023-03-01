@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viltu-jujhajiya&label=Profile%20views&color=0e75b6&style=flat" alt="viltu-jujhajiya" /> </p>
 
-- 🔭 I’m currently pursing my M.Tech degree in Artificial Intelligence from **IISc**
+- 🔭 I’m currently pursing my M.Tech degree in Artificial Intelligence from **Indian Institute of Science**
 
 - 🤝 I’m looking for a fresher's job **in AI related fields**
 
