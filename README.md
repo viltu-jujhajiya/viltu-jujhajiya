@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently pursing my M.Tech degree in Artificial Intelligence from **Indian Institute of Science**
 
-- 🤝 I’m looking for a fresher's job **in AI related fields**
-
 - 💬 Ask me about **Machine Learning, Deep Learning, Data and AI related things**
 
 - 📫 How to reach me **viltujujhajiya@gmail.com**
